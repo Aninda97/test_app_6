@@ -1,24 +1,7 @@
 # README
+The Complete Ruby on Rails Developer Course
+https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Homework.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+HTML & CSS in Ruby Rails
